@@ -1,25 +1,17 @@
 ## Hi there 👋
-<h2> Hey there! I'm WangScaler.👋</h2>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=wangscaler&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&theme=tokyonight">
 </p>
 
-<p align = "center">
-<a href="https://github.com/wangscaler/myblog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=myblog&theme=tokyonight" />
-</a>
-<a href="https://github.com/wangscaler/python-wenzimaoxian ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=python-wenzimaoxian&theme=tokyonight" />
-</a>
-</p>
+
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=LiuSandy&theme=redical">
 </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
-- 🔭 &nbsp; 大家好，我是Wangscaler。
+- 🔭 &nbsp; 大家好，我是 LiuSandy。
 - 🤔 &nbsp; 非常欢迎你来访问我的Github。
 - 🎓 &nbsp; 尽管这里可能并没有你需要的项目。
 - 💼 &nbsp; 但是你的到来会使这里变得蓬荜生辉。
@@ -29,13 +21,13 @@
 
 
 <p align = "center">
-  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=tokyonight" width="45%">
-  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight" width="50%" >
+  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=LiuSandy&theme=tokyonight" width="45%">
+  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=LiuSandy&theme=tokyonight" width="50%" >
 </p>
 
 <br><br><br><br>
 <p align = "center" >
-  <img src = "https://komarev.com/ghpvc/?username=wangscaler" >
+  <img src = "https://komarev.com/ghpvc/?username=LiuSandy" >
 </p>
 ​
 
