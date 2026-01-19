@@ -6,9 +6,7 @@
 </p>
 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=LiuSandy&theme=redical">
-</p>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
 - 🔭 &nbsp; 大家好，我是 LiuSandy。
