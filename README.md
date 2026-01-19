@@ -1,13 +1,11 @@
 ## Hi there 👋 <img src = "https://komarev.com/ghpvc/?username=LiuSandy" >
 
+![Metrics](https://metrics.lecoq.io/LiuSandy?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=LiuSandy&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LiuSandy&theme=tokyonight">
 </p>
-
-![Metrics](https://metrics.lecoq.io/LiuSandy?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
-
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
