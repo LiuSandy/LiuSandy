@@ -1,6 +1,6 @@
 ## Hi there 👋 <img src = "https://komarev.com/ghpvc/?username=LiuSandy" >
 
-![Metrics](/githu-metrics.svg)
+![Metrics](/github-metrics.svg)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=LiuSandy&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
