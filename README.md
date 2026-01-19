@@ -19,5 +19,5 @@ I'm a self-taught passionate FrontEnd developer from China 🇨🇳
 | ------------- | ------------- |
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%>
 </picture>
