@@ -20,16 +20,6 @@
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。 
 
 
-<p align = "center">
-  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=LiuSandy&theme=tokyonight" width="45%">
-  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=LiuSandy&theme=tokyonight" width="50%" >
-</p>
-
-<br><br><br><br>
-<p align = "center" >
-  <img src = "https://komarev.com/ghpvc/?username=LiuSandy" >
-</p>
-​
 
 <!--
 **LiuSandy/LiuSandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
