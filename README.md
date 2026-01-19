@@ -18,4 +18,6 @@ I'm a self-taught passionate FrontEnd developer from China 🇨🇳
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=LiuSandy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuSandy&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-![metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
